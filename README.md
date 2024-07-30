@@ -10,7 +10,8 @@
 - [Deployment](#deployment)
 
 ## Introduction
-This is a web application designed to provide a seamless user experience for managing user profiles, including authentication, profile updates, and file uploads using Firebase. The application is built with a modern stack of technologies including React, Redux, Node.js, Express, and Firebase.
+This is a web application designed to provide a seamless user experience for managing users, including authentication, event updates. The application is built with a modern stack of technologies including React, Node.js, Express, and Supabase.
+In the project i have made use of openweathermap.api in order to fetch climate of different cities in the world.And have also created many backend routes as described in the task.I have linked supabase as well as mongodb for user authentication.While authentication made use of jsonwebtoken,bcrypt like libraries.
 
 ## Features
 - User authentication with JWT
