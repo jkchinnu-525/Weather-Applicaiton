@@ -13,7 +13,7 @@ export default function Signup() {
     e.preventDefault();
     try {
       const response = await axios.post(
-        "http://localhost:3000/api/auth/register",
+        "https://task-2-hmum.onrender.com/api/auth/register",
         {
           username: Data["username"],
           email: Data["email"],
