@@ -24,7 +24,6 @@ export default function Weather() {
     <div className="App p-3 max-w-lg mx-auto">
       <h1 className="text-center font-bold py-4 text-3xl">Check Weather</h1>
       <div className="App-header flex justify-center">
-        {/* HEADER  */}
 
         {/* Search Box - Input + Button  */}
         <div>
