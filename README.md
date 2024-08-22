@@ -11,7 +11,7 @@
 
 ## Introduction
 This is a web application designed to provide a seamless user experience for managing users, including authentication, event updates. The application is built with a modern stack of technologies including React, Node.js, Express, and Supabase.
-In the project i have made use of openweathermap.api in order to fetch climate of different cities in the world.And have also created many backend routes as described in the task.I have linked supabase as well as mongodb for user authentication.While authentication made use of jsonwebtoken,bcrypt like libraries.
+In the project i have made use of openweathermap.api in order to fetch climate of different cities in the world.And have also created many backend routes using express.js.I have linked supabase as well as mongodb for user authentication.While authentication made use of jsonwebtoken,bcrypt like libraries.
 
 ## Features
 - User authentication with JWT
@@ -34,7 +34,7 @@ In the project i have made use of openweathermap.api in order to fetch climate o
 
 ### Clone the Repository
 ```
-git clone https://github.com/jkchinnu-525/task.git
+https://github.com/jkchinnu-525/Weather-Applicaiton.git
 cd task 
 ```
 ## Dependencies
@@ -52,7 +52,6 @@ jwt_secret = 'your_jwt_secret'
 ## Deployment
 This application is deployed on render while it can 
 also be deployed using services like:
-- Render
 - Vercel
 - Netlify
 
