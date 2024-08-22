@@ -1,4 +1,4 @@
-# Task[Weather]
+# Weather Application
 
 ## Table of Contents
 - [Introduction](#introduction)
