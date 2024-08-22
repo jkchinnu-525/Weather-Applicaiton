@@ -5,7 +5,7 @@ export const Topbar = () => {
     <div className="bg-black">
       <div className="flex justify-between px-2 py-2">
         <Link to="/">
-          <h1 className="pl-8 text-lg font-bold text-white">Task-2</h1>
+          <h1 className="pl-8 text-lg font-bold text-white">Weatherly</h1>
         </Link>
         <ul className="flex gap-14 text-white">
           <Link to="/">
