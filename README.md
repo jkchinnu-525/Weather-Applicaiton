@@ -50,7 +50,8 @@ Mongo_Url = "your_mongo_url"
 jwt_secret = 'your_jwt_secret'
 ```
 ## Deployment
-The application can be deployed using services like:
+This application is deployed on render while it can 
+also be deployed using services like:
 - Render
 - Vercel
 - Netlify
